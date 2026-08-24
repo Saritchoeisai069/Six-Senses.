@@ -1,9 +1,30 @@
+---
 # 🙍‍♂️ User Persona1 - Journey Map 🗺
 
 ![Persona1](picture/Persona1.jpg)
 ![WhathowwhyPersona1](picture/Whathowwhypersona1.jpg)
 ![SaydothinkfeelPersona1](picture/SaydothinkfeelPersona1.jpg)
-![JounineymapPersona1](picture/JounineymapPersona1.jpg)
+![JounineymapPersona1](picture/JouineymapPersona1.jpg)
+
+---
+
+# 🙍‍♂️ User Persona2 - Journey Map 🗺
+
+![Persona2](picture/Persona2.jpg)
+![WhathowwhyPersona2](picture/Whathowwhypersona2.jpg)
+![SaydothinkfeelPersona2](picture/SaydothinkfeelPersona2.jpg)
+![JounineymapPersona2](picture/JouineymapPersona2.jpg)
+
+---
+
+# 🙍‍♂️ User Persona3 - Journey Map 🗺
+
+![Persona3](picture/Persona3.jpg)
+![WhathowwhyPersona3](picture/Whathowwhypersona3.jpg)
+![SaydothinkfeelPersona3](picture/SaydothinkfeelPersona3.jpg)
+![JounineymapPersona3](picture/JouineymapPersona3.jpg)
+
+---
 
 # Insight 💭
 
@@ -23,3 +44,9 @@
   
 - ### ผู้ใช้เลือกช่วงเวลาตามสภาพอากาศและความหนาแน่นของผู้คน
   ผู้ใช้แต่ละกลุ่มมีการเลือกช่วงเวลาที่แตกต่างกัน แต่มีแนวโน้มเลือกช่วงที่อากาศเหมาะสม เช่น ช่วงบ่ายหรือประมาณ 13.00 น. รวมถึงบางคนเลือกช่วงที่มีผู้ใช้งานไม่มาก เพื่อหลีกเลี่ยงความแออัดและสามารถออกกำลังกายได้อย่างสะดวก
+
+---
+# POV
+! []()
+
+
