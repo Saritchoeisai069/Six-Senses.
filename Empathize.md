@@ -1,8 +1,9 @@
 # 🙍‍♂️ User Persona1 - Journey Map 🗺
 
 ![Persona1](picture/Persona1.jpg)
-![WhathowwhyPersona1](picture/WhathowwhyPersona1.jpg)
+![WhathowwhyPersona1](picture/Whathowwhypersona1.jpg)
 ![SaydothinkfeelPersona1](picture/SaydothinkfeelPersona1.jpg)
+![JounineymapPersona1](picture/JounineymapPersona1.jpg)
 
 # Insight 💭
 
