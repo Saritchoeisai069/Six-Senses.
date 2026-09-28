@@ -38,7 +38,7 @@
 
 #  :pushpin:ชื่อ: ดีไซน์ (นางสาวรวิสรา จรดล)
 ###  ID: 69130500096
-![disign](14867.jpg)
+![disign](picture/Disign.jpg)
 
 ----
 
