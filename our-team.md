@@ -14,7 +14,7 @@
 
 # :pushpin:ชื่อ: ภูมิใจ (นายสฤษดิ์ เฉยไสย)
 ###  ID: 69130500069
-![poom](picture/EAF670D9-1D08-4924-8D29-122606BB30B6.jpeg)
+![poom](picture/Poomjai.jpeg)
 
 ----
 
