@@ -134,7 +134,7 @@
 
 # :pushpin:ชื่อ: เซฟ (เศรษฐศาสตร์ ศิริโกมลสิงห์)
 ### ID: 69130500067
-![SAFE](picture/008D28C1-F3D8-4A00-BFA4-6336AFC2704A.jpeg)
+![SAFE](picture/Safe.jpeg)
 
 ----
 
