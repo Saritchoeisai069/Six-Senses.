@@ -14,7 +14,7 @@
 
 # :pushpin:ชื่อ: ภูมิใจ (นายสฤษดิ์ เฉยไสย)
 ###  ID: 69130500069
-![poom](picture/Poomjai.jpeg)
+<div align="center"><img src="picture/Poomjai.jpeg" width="150" hight="150"></div>
 
 ----
 
@@ -38,7 +38,7 @@
 
 #  :pushpin:ชื่อ: ดีไซน์ (นางสาวรวิสรา จรดล)
 ###  ID: 69130500096
-![disign](picture/Disign.jpg)
+<div align="center"><img src="picture/Disign.jpg" width="150" hight="150"></div>
 
 ----
 
@@ -62,7 +62,7 @@
 
 #  :pushpin:ชื่อ: เกม (นายดํารงวิทย์ ใคร่ครวญ)
 ###  ID: 69130500083
-![Game](picture/Game.jpg)
+<div align="center"><img src="picture/Game.jpg" width="150" hight="150"></div>
 
 ----
 
@@ -86,7 +86,7 @@
 
 # :pushpin:ชื่อ: จ๋อม (นายปณชัย ตีรถะ)
 ###  ID: 69130500108
-![jom](picture/jom.jpg)
+<div align="center"><img src="picture/jom.jpg" width="150" hight="150"></div>
 
 ----
 
@@ -110,7 +110,7 @@
 
 #  :pushpin:ชื่อ: เสก (นายธรณ์เทพ สุญานนท์)
 ###  ID: 69130500088
-![sek](./picture/sek.jpg)
+<div align="center"><img src="picture/sek.jpg" width="150" hight="150"></div>
 
 ----
 
@@ -134,7 +134,7 @@
 
 # :pushpin:ชื่อ: เซฟ (เศรษฐศาสตร์ ศิริโกมลสิงห์)
 ### ID: 69130500067
-![SAFE](picture/Safe.jpeg)
+<div align="center"><img src="picture/Safe.jpeg" width="150" hight="150"></div>
 
 ----
 
