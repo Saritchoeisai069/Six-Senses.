@@ -1,8 +1,5 @@
 <div align="center">
-  
 # Feedback 📑
----
-
 </div>
 
 ## I LIKE
