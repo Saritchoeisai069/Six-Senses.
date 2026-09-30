@@ -10,7 +10,7 @@
 | 2 | นายสฤษดิ์ เฉยไสย (POOMJAI) | 69130500069 | Journeymap, Member, |
 | 3 | นายดํารงวิทย์ ใคร่ครวญ (GAME) | 69130500083 | Ideate, |
 | 4 | นายธรณ์เทพ สุญานนท์ (SEK) | 69130500088 | POV Stetamet, |
-| 5 | นางสาวรวิสรา จรดล (DISIGN) | 69130500096 | Interview Script, Insight |
+| 5 | นางสาวรวิสรา จรดล (DESIGN) | 69130500096 | Interview Script, Insight |
 | 6 | นายปณชัย ตีรถะ (JOM) | 69130500108 | Userpersona, |
 
 
