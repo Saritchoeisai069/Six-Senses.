@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>INSIDE 💭</h1>
+  <h1>INSIGHT 💭</h1>
 </div>
 
 ## Insight จาก User 👤
